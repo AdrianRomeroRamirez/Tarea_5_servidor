@@ -1,0 +1,317 @@
+{
+  "id": "5dda5443-cb13-4b53-b9a3-86f99eaf6668",
+  "version": "2.0",
+  "name": "tarea5",
+  "url": "http://localhost",
+  "tests": [{
+    "id": "109c4f4a-faff-43ac-9b40-0e5ffc9e7ecd",
+    "name": "tarea5",
+    "commands": [{
+      "id": "852af7e7-8120-451d-a2c2-1bd2e2e52333",
+      "comment": "",
+      "command": "open",
+      "target": "/dwes/tarea5/Romero_Ramirez_Adrian_DWES05_Tarea_E1/clientew.php",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "40a3b168-aa7c-47b7-a073-28fdd01df14f",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1011x1001",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a9081de6-4d3c-4ebc-b1ea-1f1aefbe0c17",
+      "comment": "",
+      "command": "click",
+      "target": "id=mandarFecha",
+      "targets": [
+        ["id=mandarFecha", "id"],
+        ["name=mandarFecha", "name"],
+        ["css=#mandarFecha", "css:finder"],
+        ["xpath=//button[@id='mandarFecha']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Ver anuncios')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "db41188e-e621-4bda-bd17-71e853e73edb",
+      "comment": "",
+      "command": "click",
+      "target": "id=fecha",
+      "targets": [
+        ["id=fecha", "id"],
+        ["name=fecha", "name"],
+        ["css=#fecha", "css:finder"],
+        ["xpath=//input[@id='fecha']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1adb50f8-fe5b-4940-ae51-1bafe8657bd5",
+      "comment": "",
+      "command": "type",
+      "target": "id=fecha",
+      "targets": [
+        ["id=fecha", "id"],
+        ["name=fecha", "name"],
+        ["css=#fecha", "css:finder"],
+        ["xpath=//input[@id='fecha']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "2020-02-21"
+    }, {
+      "id": "3f6ad077-8504-442b-8f71-7ecbcf270e69",
+      "comment": "",
+      "command": "click",
+      "target": "id=mandarFecha",
+      "targets": [
+        ["id=mandarFecha", "id"],
+        ["name=mandarFecha", "name"],
+        ["css=#mandarFecha", "css:finder"],
+        ["xpath=//button[@id='mandarFecha']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Ver anuncios')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "72ba65ad-459d-4fb8-a08f-c277594b4925",
+      "comment": "",
+      "command": "click",
+      "target": "id=login",
+      "targets": [
+        ["id=login", "id"],
+        ["name=login", "name"],
+        ["css=#login", "css:finder"],
+        ["xpath=//input[@id='login']", "xpath:attributes"],
+        ["xpath=//div[5]/form/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c07edadc-f057-4ce7-9343-7ccdfdd5410f",
+      "comment": "",
+      "command": "type",
+      "target": "id=login",
+      "targets": [
+        ["id=login", "id"],
+        ["name=login", "name"],
+        ["css=#login", "css:finder"],
+        ["xpath=//input[@id='login']", "xpath:attributes"],
+        ["xpath=//div[5]/form/input", "xpath:position"]
+      ],
+      "value": "wwwww"
+    }, {
+      "id": "0fe78aca-2f35-4399-b0d4-78695611e5f4",
+      "comment": "",
+      "command": "click",
+      "target": "id=buscarEmail",
+      "targets": [
+        ["id=buscarEmail", "id"],
+        ["name=buscarEmail", "name"],
+        ["css=#buscarEmail", "css:finder"],
+        ["xpath=//button[@id='buscarEmail']", "xpath:attributes"],
+        ["xpath=//div[5]/form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Buscar Email')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "f90b6e9b-9d04-4b7a-b0a3-e69605d7af0e",
+      "comment": "",
+      "command": "click",
+      "target": "id=login",
+      "targets": [
+        ["id=login", "id"],
+        ["name=login", "name"],
+        ["css=#login", "css:finder"],
+        ["xpath=//input[@id='login']", "xpath:attributes"],
+        ["xpath=//div[5]/form/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ed2aca5b-4773-4ba9-a083-37f7b55335a6",
+      "comment": "",
+      "command": "type",
+      "target": "id=login",
+      "targets": [
+        ["id=login", "id"],
+        ["name=login", "name"],
+        ["css=#login", "css:finder"],
+        ["xpath=//input[@id='login']", "xpath:attributes"],
+        ["xpath=//div[5]/form/input", "xpath:position"]
+      ],
+      "value": "usu1"
+    }, {
+      "id": "cfa42b20-1a03-41c0-849f-d9863aa2e3e8",
+      "comment": "",
+      "command": "click",
+      "target": "id=buscarEmail",
+      "targets": [
+        ["id=buscarEmail", "id"],
+        ["name=buscarEmail", "name"],
+        ["css=#buscarEmail", "css:finder"],
+        ["xpath=//button[@id='buscarEmail']", "xpath:attributes"],
+        ["xpath=//div[5]/form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Buscar Email')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4bdce9ee-9550-472d-a850-d8401341e99f",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Ir a cliente.php",
+      "targets": [
+        ["linkText=Ir a cliente.php", "linkText"],
+        ["css=a", "css:finder"],
+        ["xpath=//a[contains(text(),'Ir a cliente.php')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'cliente.php')]", "xpath:href"],
+        ["xpath=//a", "xpath:position"],
+        ["xpath=//a[contains(.,'Ir a cliente.php')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "dbe4dbfb-3651-42cb-8931-2279df7f5265",
+      "comment": "",
+      "command": "click",
+      "target": "id=mandarFecha",
+      "targets": [
+        ["id=mandarFecha", "id"],
+        ["name=mandarFecha", "name"],
+        ["css=#mandarFecha", "css:finder"],
+        ["xpath=//button[@id='mandarFecha']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Ver anuncios')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "5517f984-b6ae-4ed0-90fc-33068286b4e1",
+      "comment": "",
+      "command": "click",
+      "target": "id=fecha",
+      "targets": [
+        ["id=fecha", "id"],
+        ["name=fecha", "name"],
+        ["css=#fecha", "css:finder"],
+        ["xpath=//input[@id='fecha']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d390a36c-5805-4398-9499-e371a45d2343",
+      "comment": "",
+      "command": "type",
+      "target": "id=fecha",
+      "targets": [
+        ["id=fecha", "id"],
+        ["name=fecha", "name"],
+        ["css=#fecha", "css:finder"],
+        ["xpath=//input[@id='fecha']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "2020-02-21"
+    }, {
+      "id": "f250bf90-a0ca-4ecf-a87f-3e84c2ce5621",
+      "comment": "",
+      "command": "click",
+      "target": "id=mandarFecha",
+      "targets": [
+        ["id=mandarFecha", "id"],
+        ["name=mandarFecha", "name"],
+        ["css=#mandarFecha", "css:finder"],
+        ["xpath=//button[@id='mandarFecha']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Ver anuncios')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "8ee95d30-e367-4739-95db-dc42aa990b36",
+      "comment": "",
+      "command": "click",
+      "target": "id=login",
+      "targets": [
+        ["id=login", "id"],
+        ["name=login", "name"],
+        ["css=#login", "css:finder"],
+        ["xpath=//input[@id='login']", "xpath:attributes"],
+        ["xpath=//div[5]/form/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a90597be-2f00-4868-aebc-e03c1c4cba80",
+      "comment": "",
+      "command": "type",
+      "target": "id=login",
+      "targets": [
+        ["id=login", "id"],
+        ["name=login", "name"],
+        ["css=#login", "css:finder"],
+        ["xpath=//input[@id='login']", "xpath:attributes"],
+        ["xpath=//div[5]/form/input", "xpath:position"]
+      ],
+      "value": "dasgr"
+    }, {
+      "id": "43de54f5-5edd-440c-aaa1-74d2e4a91d85",
+      "comment": "",
+      "command": "click",
+      "target": "id=buscarEmail",
+      "targets": [
+        ["id=buscarEmail", "id"],
+        ["name=buscarEmail", "name"],
+        ["css=#buscarEmail", "css:finder"],
+        ["xpath=//button[@id='buscarEmail']", "xpath:attributes"],
+        ["xpath=//div[5]/form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Buscar Email')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "06bcbb39-4c59-4fbc-8096-7946fe5ebd9d",
+      "comment": "",
+      "command": "click",
+      "target": "id=login",
+      "targets": [
+        ["id=login", "id"],
+        ["name=login", "name"],
+        ["css=#login", "css:finder"],
+        ["xpath=//input[@id='login']", "xpath:attributes"],
+        ["xpath=//div[5]/form/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0c5d77de-eb9c-44f6-ad87-5dffc1171995",
+      "comment": "",
+      "command": "type",
+      "target": "id=login",
+      "targets": [
+        ["id=login", "id"],
+        ["name=login", "name"],
+        ["css=#login", "css:finder"],
+        ["xpath=//input[@id='login']", "xpath:attributes"],
+        ["xpath=//div[5]/form/input", "xpath:position"]
+      ],
+      "value": "usu2"
+    }, {
+      "id": "492e555a-b5d5-4c7f-976f-25e59ba5b2c3",
+      "comment": "",
+      "command": "click",
+      "target": "id=buscarEmail",
+      "targets": [
+        ["id=buscarEmail", "id"],
+        ["name=buscarEmail", "name"],
+        ["css=#buscarEmail", "css:finder"],
+        ["xpath=//button[@id='buscarEmail']", "xpath:attributes"],
+        ["xpath=//div[5]/form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Buscar Email')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "c0c3476c-c251-411b-92d2-558a4000ffbc",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["109c4f4a-faff-43ac-9b40-0e5ffc9e7ecd"]
+  }],
+  "urls": ["http://localhost/"],
+  "plugins": []
+}
